@@ -3,6 +3,7 @@
 	"author": {
 		"name": "Ashanti Rogers"
 	},
+	"description": "A learning project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
