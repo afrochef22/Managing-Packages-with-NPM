@@ -4,6 +4,9 @@
 		"name": "Ashanti Rogers"
 	},
 	"description": "A learning project",
+	"keywords": [
+		"freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
