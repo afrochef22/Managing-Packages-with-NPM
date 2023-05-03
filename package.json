@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Ashanti Rogers",
+	"author": {
+		"name": "Ashanti Rogers"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
